@@ -3,7 +3,7 @@ name = "SigmaOS-rclone"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "rclone component"
+description = "Rclone"
 upstream = []
 
 [contract]
